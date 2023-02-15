@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+a{
+  all: unset;
+}
+
+body::-webkit-scrollbar{
+  display: none;
+}
