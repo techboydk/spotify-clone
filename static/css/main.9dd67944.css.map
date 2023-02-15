@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9dd67944.css","mappings":"AAAA,EAGE,qBAAsB,CAFtB,QAAS,CACT,SAAU,CAEV,oBACF,CAEA,EACE,SACF,CAEA,wBACE,YACF","sources":["index.css"],"sourcesContent":["*{\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n  text-decoration: none;\n}\n\na{\n  all: unset;\n}\n\nbody::-webkit-scrollbar{\n  display: none;\n}"],"names":[],"sourceRoot":""}
